@@ -1,0 +1,15 @@
+Write a summation of n numbers
+write a program to print the product of n numbers
+write a program to print the following
+1
+11
+111
+1111
+
+Write a program to check if given number is prime or not 
+
+write a program to check if the given number is odd or even - done
+
+write a program to print the fibonnaci series of number n - done
+
+get a number and print all the prime numbers from 1 to 50 - Done
